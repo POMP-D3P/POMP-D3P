@@ -1,0 +1,10 @@
+results/
+models/
+args.file
+__pycache__
+.ipynb_checkpoints/
+*.txt
+*.log
+runs/
+*.patch
+draw_cc/
