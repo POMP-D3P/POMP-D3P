@@ -1,5 +1,17 @@
 # Making Better Decision by  Directly Planning  in Continuous Control
-This repository contains the code for *Making Better Decision by  Directly Planning  in Continuous Control* (POMP).
+This repository contains the code for [Making Better Decision by  Directly Planning  in Continuous Control](https://openreview.net/forum?id=r8Mu7idxyF), which is introduced in ICLR2023.
+
+If you find this work helpful in your research, please cite as:
+```
+@inproceedings{
+zhu2023making,
+title={Making Better Decision by Directly Planning in Continuous Control},
+author={Jinhua Zhu and Yue Wang and Lijun Wu and Tao Qin and Wengang Zhou and Tie-Yan Liu and Houqiang Li},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=r8Mu7idxyF}
+}
+```
 
 ## Requirements and Installation
 - PyTorch=1.12.1
